@@ -5,4 +5,6 @@ Adapter for retro gamepads based on ESP32
 * Gamepads of each player work simultaneously, their actions add up in most cases.
 * Russian-made microchips are used as multiplexers, but they have many analogues.
 
-![Schematic](Schematic.png)
+![Schematic](Schematic_preview.png)
+
+Schematic diagram in high resolution [here](Schematic.png)
